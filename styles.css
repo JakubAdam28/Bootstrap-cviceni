@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+.navbar {
+    background-color: #FFD700;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #000;
+}
+
+.jumbotron {
+    background-color: #e9eff5;
+    color: #000;
+    border: 1px solid #ccc;
+    width: 75%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.jumbotron .display-4 {
+    font-size: 2.5rem;
+}
+
+.jumbotron .lead {
+    font-size: 1.25rem;
+}
+
+footer {
+    background-color: #c5eeff;
+    color: #FFF;
+    position: relative;
+    top: 30px;
+    left: 12%;
+    width: 75%;
+    text-align: justify;
+}
+.navbar-brand{
+    padding: 0px 30px 0px 215px;
+}
+header{
+position: relative;
+top: 30px;
+left: 12%;
+bottom: 30px;
+}
+footer b{
+    color: #000000;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h1{
+    font-weight: bold;
+}
